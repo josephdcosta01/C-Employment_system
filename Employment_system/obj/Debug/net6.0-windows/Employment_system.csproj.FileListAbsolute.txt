@@ -1,0 +1,7 @@
+D:\C# Code\Employment\Employment_system\obj\Debug\net6.0-windows\Employment_system.csproj.AssemblyReference.cache
+D:\C# Code\Employment\Employment_system\obj\Debug\net6.0-windows\Employment_system.Form1.resources
+D:\C# Code\Employment\Employment_system\obj\Debug\net6.0-windows\Employment_system.csproj.GenerateResource.cache
+D:\C# Code\Employment\Employment_system\obj\Debug\net6.0-windows\Employment_system.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Code\Employment\Employment_system\obj\Debug\net6.0-windows\Employment_system.AssemblyInfoInputs.cache
+D:\C# Code\Employment\Employment_system\obj\Debug\net6.0-windows\Employment_system.AssemblyInfo.cs
+D:\C# Code\Employment\Employment_system\obj\Debug\net6.0-windows\Employment_system.csproj.CoreCompileInputs.cache
